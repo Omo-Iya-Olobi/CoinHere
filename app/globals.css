@@ -141,6 +141,8 @@
   --yellow-500: #dabe44;
 }
 
+/* directive to add base styles */
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
